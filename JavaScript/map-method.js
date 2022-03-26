@@ -25,3 +25,5 @@ let postEverything = posts.map((post) => ({
 }))
 
 console.log(postEverything)
+
+//
